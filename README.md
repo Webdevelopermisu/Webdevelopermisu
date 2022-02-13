@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MH MISU</h1>
 <h3 align="center">I'm frontend web developer.</h3>
-![I am Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/273539118_281544384075903_5612460137181933796_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=scVVjBry-D4AX9buMyJ&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-DOZd97sWrgE4oQC-hk84zFRc8V51LcdJlnh7e-WXkOw&oe=620EA205)
+
 
 Hi,
 I am an expert web developer. I am a front-end developer specializing in HTML, CSS, JS. I have a very good experience in this web development
@@ -42,27 +42,3 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermisu&" alt="webdevelopermisu" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
