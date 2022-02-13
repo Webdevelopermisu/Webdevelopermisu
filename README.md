@@ -29,10 +29,10 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/misuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misuweb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/web-developer-misu-558653211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/web-developer-misu-558653211/" height="30" width="40" /></a>
-<a href="https://fb.com/mhmisu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmisu02" height="30" width="40" /></a>
-<a href="https://instagram.com/webdeveloper_misu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdeveloper_misu/?hl=en" height="30" width="40" /></a>
+<a href="https://twitter.com/misuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misuweb" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/in/web-developer-misu-558653211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/web-developer-misu-558653211/"height="40" width="50" /></a>
+<a href="https://fb.com/mhmisu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmisu02"height="40" width="50" /></a>
+<a href="https://instagram.com/webdeveloper_misu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdeveloper_misu/?hl=en" height="40" width="50" /></a>
 </p>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
