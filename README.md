@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MH MISU</h1>
 <h3 align="center">I'm frontend web developer.</h3>
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=anwarulislam&show_icons=true&theme=radical&locale=en" alt="Anwarul islam"/>](https://github.com/anwarulislam)
+
 
 Hi,
 I am an expert web developer. I am a front-end developer specializing in HTML, CSS, JS. I have a very good experience in this web development
