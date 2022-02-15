@@ -13,20 +13,6 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevelopermisu" alt="webdevelopermisu" /></a> </p>
 
-
-
-- 🔭 I’m currently working on **Fiverr**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **Github**
-
-- 🤝 I’m looking for help with **Google and youtube**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **webdevolopermisu@gmail.com**
-<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/misuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misuweb" height="40" width="50" /></a>
@@ -45,4 +31,18 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevelopermisu&show_icons=true&locale=en" alt="webdevelopermisu" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermisu&" alt="webdevelopermisu" /></p>
+
+
+- 🔭 I’m currently working on **Fiverr**
+
+- 🌱 I’m currently learning **Javascript**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- 🤝 I’m looking for help with **Google and youtube**
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **webdevolopermisu@gmail.com**
+<br/>
 
