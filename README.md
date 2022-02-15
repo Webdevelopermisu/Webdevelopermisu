@@ -12,6 +12,12 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevelopermisu&show_icons=true&locale=en" alt="webdevelopermisu" /></p>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevelopermisu" alt="webdevelopermisu" /></a> </p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevelopermisu&show_icons=true&locale=en&layout=compact" alt="webdevelopermisu" /></p>
+
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermisu&" alt="webdevelopermisu" /></p>
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,12 +32,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevelopermisu&show_icons=true&locale=en&layout=compact" alt="webdevelopermisu" /></p>
 
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermisu&" alt="webdevelopermisu" /></p>
-<br/>
 
 
 - 🔭 I’m currently working on **Fiverr**
