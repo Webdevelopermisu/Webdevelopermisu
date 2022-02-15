@@ -32,6 +32,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevelopermisu&show_icons=true&locale=en" alt="webdevelopermisu" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermisu&" alt="webdevelopermisu" /></p>
+<br/>
 
 
 - 🔭 I’m currently working on **Fiverr**
