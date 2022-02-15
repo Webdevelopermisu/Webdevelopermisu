@@ -5,7 +5,10 @@
 
 Hi,
 I am an expert web developer. I am a front-end developer specializing in HTML, CSS, JS. I have a very good experience in this web development
-
+</a>
+<a href="https://github.com/Webdevelopermisu/Webdevelopermisu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webdevelopermisu&repo=VelocityX&theme=light" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevelopermisu&label=Profile%20views&color=0e75b6&style=flat" alt="webdevelopermisu" /> </p>
 
