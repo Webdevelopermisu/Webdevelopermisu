@@ -10,6 +10,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevelopermisu&label=Profile%20views&color=0e75b6&style=flat" alt="webdevelopermisu" /> </p>
 <p align="right"> <a href="https://twitter.com/misuweb" target="blank"><img src="https://img.shields.io/twitter/follow/misuweb?logo=twitter&style=for-the-badge" alt="misuweb" /></a> </p>
+<p align="right"> <a href="https://instagram.com/webdeveloper_misu/?hl=en" target="blank"><img src="https://img.shields.io/instagram/follow/webdeveloper_misu?logo=instagram&style=for-the-badge" alt="misuweb" /></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevelopermisu" alt="webdevelopermisu" /></a> </p>
 
