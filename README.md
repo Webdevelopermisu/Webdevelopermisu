@@ -9,6 +9,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevelopermisu&label=Profile%20views&color=0e75b6&style=flat" alt="webdevelopermisu" /> </p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevelopermisu&show_icons=true&locale=en" alt="webdevelopermisu" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevelopermisu" alt="webdevelopermisu" /></a> </p>
 
@@ -27,7 +28,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevelopermisu&show_icons=true&locale=en&layout=compact" alt="webdevelopermisu" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevelopermisu&show_icons=true&locale=en" alt="webdevelopermisu" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevelopermisu&" alt="webdevelopermisu" /></p>
 <br/>
