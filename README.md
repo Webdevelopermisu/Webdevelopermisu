@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm MH MISU</h1>
 <h3 align="center">I'm frontend web developer.</h3>
 
@@ -60,13 +59,3 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 <a href="https://fb.com/mhmisu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmisu02"height="40" width="50" /></a>
 <a href="https://instagram.com/webdeveloper_misu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdeveloper_misu/?hl=en" height="40" width="50" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-
