@@ -37,11 +37,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="40"/> </a> 
     </p>
 
-<br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Webdevelopermisu)  
-<br/>
-![GitHub metrics](https://metrics.lecoq.io/Webdevelopermisu)  
-<br/>
+
 - 🔭 I’m currently working on **Fiverr**
 
 - 🌱 I’m currently learning **Javascript**
