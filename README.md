@@ -37,7 +37,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="40"/> </a> 
     </p>
 
-(https://activity-graph.herokuapp.com/graph?username=Webdevelopermisu)
+<img src="https://activity-graph.herokuapp.com/graph?username=Webdevelopermisu"/>
 
 - 🔭 I’m currently working on **Fiverr**
 
@@ -51,7 +51,8 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 
 - 📫 How to reach me **webdevolopermisu@gmail.com**
 <br/>
-
+<img src="https://metrics.lecoq.io/Webdevelopermisu"/>
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/misuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misuweb" height="40" width="50" /></a>
