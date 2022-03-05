@@ -38,7 +38,10 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
     </p>
 
 <br/>
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Webdevelopermisu)  
+<br/>
+![GitHub metrics](https://metrics.lecoq.io/Webdevelopermisu)  
+<br/>
 - 🔭 I’m currently working on **Fiverr**
 
 - 🌱 I’m currently learning **Javascript**
