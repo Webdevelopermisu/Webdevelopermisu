@@ -50,9 +50,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **webdevolopermisu@gmail.com**
-<br/>
-<img src="https://metrics.lecoq.io/Webdevelopermisu"/>
-<br/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/misuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misuweb" height="40" width="50" /></a>
