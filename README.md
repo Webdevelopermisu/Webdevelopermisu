@@ -16,8 +16,7 @@ I am an expert web developer. I am a front-end developer specializing in HTML, C
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mhmisu02)
 
 
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevelopermisu" alt="webdevelopermisu" /></a> </p>
+<br/>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevelopermisu&show_icons=true&locale=en&layout=compact" alt="webdevelopermisu" /></p>
